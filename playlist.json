@@ -33,11 +33,17 @@
   "defaultTitle":"Coffee House Music 2019: Coffee Shop Playlist (Cafe Songs)",
     "playlistID": "PL5D7fjEEs5yc3Bb4ayCPkjKElw2iDA0XW",
   "fromJson": true,
-  "playlistPosition":3
+  "playlistPosition":8
   },
   {
   "defaultTitle":"Late Night Songs Playlist: Best Night Music for Sleep (Playlist Updated in 2019)",
     "playlistID": "PLo3pNg0eiPc_JHZ-1jjCYbup7_rT3CBl8",
+  "fromJson": true,
+  "playlistPosition":3
+  },
+   {
+  "defaultTitle":"8D AUDIO",
+    "playlistID": "PLrymTUjXgdc_Iah8qtbRqyerLpmEcqhjZ",
   "fromJson": true,
   "playlistPosition":2
   },
