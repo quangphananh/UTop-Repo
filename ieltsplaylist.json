@@ -15,12 +15,18 @@
   "defaultTitle":"IELTS READING TESTS",
   "playlistID": "PLgKRVRqVNt5G6034sBwwgryi-y3ZmB4XQ",
   "fromJson": true,
-  "playlistPosition":2
+  "playlistPosition":3
   },
   {
   "defaultTitle":"IELTS SPEAKING",
   "playlistID": "PLgKRVRqVNt5FYeOxXxsVlY9NPpzL39uxG",
   "fromJson": true,
-  "playlistPosition":3
+  "playlistPosition":4
+  },
+  {
+  "defaultTitle":"TOEIC new format full tests 2018 - 2019",
+  "playlistID": "PLd4wRR-sv9aAY82_x6LxxGuOGJ75M5P3v",
+  "fromJson": true,
+  "playlistPosition":2
   }
 ]
