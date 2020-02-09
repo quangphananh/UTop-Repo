@@ -1,10 +1,10 @@
-{
-"partner0":"THANH BUOI",
-"partner1":"PHUONG TRANG",
-"partner2":"VIETRAVEL",
-"partner3":"SAIGONTOURIST",
-"partner4":"SOHA",
-"partner5":"BUYT TPHCM",
-"partner6":"DUONG SAT VN",
-"partner7":"MAI LINH",
-}
+[
+{"partner":"THANH BUOI"},
+{"partner":"PHUONG TRANG"},
+{"partner":"VIETRAVEL"},
+{"partner":"SAIGONTOURIST"},
+{"partner":"SOHA"},
+{"partner":"BUYT TPHCM"},
+{"partner":"DUONG SAT VN"},
+{"partner":"MAI LINH"}
+]
